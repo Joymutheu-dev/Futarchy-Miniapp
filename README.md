@@ -1,10 +1,10 @@
 # Futarchy-Miniapp
-A Farcaster Mini App that uses futarchy-based prediction markets to boost follower growth. Users predict follower counts for casts and share engaging predictions to increase visibility on Farcaster.
+A Farcaster Mini App that uses futarchy-based prediction markets to boost follower growth. Users predict follower counts for accounts and share engaging predictions to increase visibility on Farcaster.
 
 ## Features
 
-- Predict follower growth for casts using a Farcaster Frame.
-- Stake tokens on predictions via a smart contract (deployed on Base or Ethereum testnet).
+- Predict follower growth for accounts using a Farcaster Frame.
+- Stake tokens on predictions via a smart contract on base 
 - Generate dynamic shareable images for viral casts.
 - Engage users with gamified prediction markets to drive follower growth.
 
